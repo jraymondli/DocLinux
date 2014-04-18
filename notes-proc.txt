@@ -1,0 +1,6 @@
+
+o /usr/src/linux/fs/proc/
+o Links
+
+  - http://www.cs.albany.edu/~sdc/CSI500/Spr10/Labs/ProcLab/seq_file_howto.txt
+
